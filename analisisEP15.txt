@@ -1,0 +1,17 @@
+Adjusted R-squared = R^2 ajustado
+explica el % de la variabilidad de los datos
+mientras más mejor
+
+calidad del modelo 
+RMSE
+si es bajo es bueno 
+
+observaciones atipicas 
+si la distancia de cook está bastante lejos de 1 entonces 
+no son causa de preocupación
+
+independencia de los residuos 
+prueba de durbin-watson 
+p = 0,542 -> residuos son independientes
+
+concluimos modelo confiable

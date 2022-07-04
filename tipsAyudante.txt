@@ -1,0 +1,9 @@
+Aquí van algunas observaciones de los EP12 al EP15
+- Al seleccionar variables predictoras, indicarlas en el script explícitamente y justificar la elección. 
+- Recordar colocar tildes. 
+- Si piden evaluar los modelos, evaluar tanto el Simple como el Múltiple. 
+- Grafiquen la curva de Roc, coloquen matrices de confusión, calculen la distancia de Cook, entre otras para ver el tema de las condiciones y lo del poder predictivo. 
+
+Recuerden leer bien la rúbrica de la PEP para que vayan chequeando lo que les piden. 
+Eso, que tengan buen fin de semana, ánimo y éxito en todas las evaluaciones que les quedan!
+
